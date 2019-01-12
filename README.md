@@ -22,4 +22,3 @@ It ensures when the loadFeed function is called and completes its work, there is
    
 ## Test 7
 It ensures when a new feed is loaded by the loadFeed function that the content actually changes.
- 
